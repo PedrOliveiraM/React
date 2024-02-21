@@ -1,0 +1,18 @@
+.button-container {
+  width: 30%;
+  margin-top: 20px;
+}
+.details-container {
+  background-color: var(--gray-fsw);
+  margin: 15px 0;
+  padding: 15px 20px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 5px;
+  color: white;
+}
+
+.details-container h2 {
+  margin-bottom: 5px;
+  color: var(--orange);
+}
